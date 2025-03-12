@@ -1,0 +1,28 @@
+{
+    "mt5_credentials": {
+        "login": 111111,
+        "password": "xxxxxxxxxxxx",
+        "server": "AdmiralsGroup-Demo",
+        "path": "C:\\Program Files\\Admirals Group MT5 Terminal\\terminal64.exe"
+    },
+    
+    "symbol": "EURUSD",
+    "timeframe": "H1",
+    "look_back": 120,
+    "retraining_hours": 24,
+    
+    "lot_size": 0.01,
+    "tp_multiplier": 2.5,
+    "sl_multiplier": 1.0,
+    "trailing_start_pct": 0.4,
+    "trailing_step_pct": 0.1,
+    "risk_per_trade_pct": 1.0,
+    
+    "telegram_bot_token": "xxxxxxxxxxxxxxxxxxx",
+    "telegram_chat_id": "xxxxxxxxxxxxxxx",
+    
+    "confidence_threshold": 0.75,
+    "price_change_threshold": 0.4,
+    
+    "max_data_points": 50000
+}
